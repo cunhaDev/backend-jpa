@@ -17,7 +17,7 @@ FUNÇÕES DO SISTEMA
 - Alterar Cozinha/Restaurante
 - Listar ambos ou apenas um
 
-EXECUTE O PROJETO NO TERMINAL, COM O COMANDO ABAIXO: 
+EXECUTE O PROJETO:
 - mvn clean install
 - Run As, Spring boot aplication
 - Após executar o comando acima, basta apenas abrir postman e fazer as requisições
