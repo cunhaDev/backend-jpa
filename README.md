@@ -1,4 +1,4 @@
-# JPA COM SPRING BOOT 
+# API REST EM SPRING
 
 API REST com Spring Boot, banco de dados MySql e ORM.
 
